@@ -2201,43 +2201,43 @@ h6 {
 /* =================================== */
 /*  Start Banner Area CSS
 /* =================================== */
-.Главная-banner-area {
-  background: url(../img/Главная-banner-bg.png) no-repeat center;
+.home-banner-area {
+  background: url(../img/home-banner-bg.png) no-repeat center;
   background-size: cover; }
   @media (max-width: 1440px) {
-    .Главная-banner-area .fullscreen {
+    .home-banner-area .fullscreen {
       height: 750px !important; } }
   @media (max-width: 768px) {
-    .Главная-banner-area .fullscreen {
+    .home-banner-area .fullscreen {
       height: 700px !important; } }
 
 @media (max-width: 768px) {
-  .Главная-banner-left {
+  .home-banner-left {
     text-align: center; } }
-.Главная-banner-left h1 {
+.home-banner-left h1 {
   color: #000000;
   font-size: 48px;
   margin-bottom: 25px; }
-  .Главная-banner-left h1 span {
+  .home-banner-left h1 span {
     color: #4ba0f9; }
   @media (max-width: 768px) {
-    .Главная-banner-left h1 br {
+    .home-banner-left h1 br {
       display: none; } }
   @media (max-width: 992px) {
-    .Главная-banner-left h1 {
+    .home-banner-left h1 {
       font-size: 45px; } }
   @media (max-width: 768px) {
-    .Главная-banner-left h1 {
+    .home-banner-left h1 {
       font-size: 36px; } }
   @media (max-width: 414px) {
-    .Главная-banner-left h1 {
+    .home-banner-left h1 {
       font-size: 30px; } }
 @media (max-width: 800px) {
-  .Главная-banner-left {
+  .home-banner-left {
     margin-top: 30px; } }
 
 @media (max-width: 991px) {
-  .Главная-banner-right {
+  .home-banner-right {
     display: none !important; } }
 
 .banner_area {

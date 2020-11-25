@@ -3,8 +3,8 @@
 /* =================================== */
 
 //--------- Start Главная Banner Area -------------//
-.Главная-banner-area {
-	background: url(../img/Главная-banner-bg.png) no-repeat center;
+.home-banner-area {
+	background: url(../img/home-banner-bg.png) no-repeat center;
 	background-size: cover;
 	.fullscreen {
 		@media (max-width: 1440px) {
@@ -16,7 +16,7 @@
 	}
 }
 
-.Главная-banner-left {
+.home-banner-left {
 	@media (max-width: 768px) {
 		text-align: center;
 	}
@@ -50,7 +50,7 @@
 	}
 }
 
-.Главная-banner-right {
+.home-banner-right {
 	@media (max-width: 991px) {
 		display: none !important;
 		// img {
