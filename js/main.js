@@ -115,7 +115,7 @@ $(function() {
 	/*----------------------------------------------------*/
 	/*  Команда carousel js
     /*----------------------------------------------------*/	
-	$('.active-Команда-carusel').owlCarousel({
+	$('.active-team-carusel').owlCarousel({
 		items: 1,
 		// autoplay: 2500,
 		loop: true,

@@ -2334,19 +2334,19 @@ h6 {
 /*Услуги area css
 ==========================================*/
 @media (max-width: 991px) {
-  .single-Услуги {
+  .single-service {
     margin-bottom: 30px; } }
-.single-Услуги .Услуги-icon {
+.single-service .service-icon {
   position: relative;
   margin-bottom: 40px; }
-  .single-Услуги .Услуги-icon .s-icon {
+  .single-service .service-icon .s-icon {
     position: absolute;
     left: 0;
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s; }
-  .single-Услуги .Услуги-icon .clr-icon {
+  .single-service .service-icon .clr-icon {
     position: absolute;
     left: -25px;
     top: -4px;
@@ -2356,15 +2356,15 @@ h6 {
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s; }
-.single-Услуги .Услуги-content h4 {
+.single-service .service-content h4 {
   font-size: 18px;
   margin-bottom: 20px; }
-.single-Услуги .Услуги-content p {
+.single-service .service-content p {
   margin-bottom: 0; }
-.single-Услуги:hover .Услуги-icon .s-icon {
+.single-service:hover .service-icon .s-icon {
   opacity: 0;
   visibility: hidden; }
-.single-Услуги:hover .Услуги-icon .clr-icon {
+.single-service:hover .service-icon .clr-icon {
   opacity: 1;
   visibility: visible; }
 
@@ -2643,27 +2643,27 @@ h6 {
 
 /* Start Команда Area css
 ============================================================================================ */
-.active-Команда-carusel .owl-nav {
+.active-team-carusel .owl-nav {
   position: absolute;
   right: 270px;
   bottom: 50px; }
   @media (max-width: 1024px) {
-    .active-Команда-carusel .owl-nav {
+    .active-team-carusel .owl-nav {
       right: 200px;
       bottom: 20px; } }
   @media (max-width: 991px) {
-    .active-Команда-carusel .owl-nav {
+    .active-team-carusel .owl-nav {
       right: -30px;
       bottom: 0; } }
   @media (max-width: 767px) {
-    .active-Команда-carusel .owl-nav {
+    .active-team-carusel .owl-nav {
       right: 0;
       bottom: 0; } }
   @media (max-width: 420px) {
-    .active-Команда-carusel .owl-nav {
+    .active-team-carusel .owl-nav {
       display: none; } }
-  .active-Команда-carusel .owl-nav .owl-prev,
-  .active-Команда-carusel .owl-nav .owl-next {
+  .active-team-carusel .owl-nav .owl-prev,
+  .active-team-carusel .owl-nav .owl-next {
     display: inline-block;
     margin: 20px;
     -webkit-transition: all 0.3s ease 0s;
@@ -2671,8 +2671,8 @@ h6 {
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
     opacity: 1; }
-    .active-Команда-carusel .owl-nav .owl-prev:hover,
-    .active-Команда-carusel .owl-nav .owl-next:hover {
+    .active-team-carusel .owl-nav .owl-prev:hover,
+    .active-team-carusel .owl-nav .owl-next:hover {
       opacity: .5; }
 
 .single-item .team-left {
