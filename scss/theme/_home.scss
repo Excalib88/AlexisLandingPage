@@ -42,15 +42,15 @@
 	}
 }
 
-/*Service area css
+/*Услуги area css
 ==========================================*/
-.service-area {
+.Услуги-area {
 }
-.single-service {
+.single-Услуги {
 	@media (max-width: 991px) {
 		margin-bottom: 30px;
 	}
-	.service-icon {
+	.Услуги-icon {
 		position: relative;
 		margin-bottom: 40px;
 		.s-icon {
@@ -67,7 +67,7 @@
 			@include transition();
 		}
 	}
-	.service-content {
+	.Услуги-content {
 		h4 {
 			font-size: 18px;
 			margin-bottom: 20px;
@@ -77,7 +77,7 @@
 		}
 	}
 	&:hover {
-		.service-icon {
+		.Услуги-icon {
 			.s-icon {
 				opacity: 0;
 				visibility: hidden;
@@ -208,9 +208,9 @@
 	}
 }
 
-// for about page //
+// for О нас page //
 
-#about {
+#О нас {
 	.video-sec-area {
 		padding: 0;
 		margin: 200px 0;
@@ -408,12 +408,12 @@
 		}
 	}
 }
-/* Start Team Area css
+/* Start Команда Area css
 ============================================================================================ */
-.team-area {
+.Команда-area {
 }
 
-.active-team-carusel {
+.active-Команда-carusel {
 	.owl-nav {
 		position: absolute;
 		right: 270px;
@@ -447,7 +447,7 @@
 }
 
 .single-item {
-	.team-left {
+	.Команда-left {
 		position: relative;
 		@media (max-width: 767px) {
 			display: none;
@@ -492,7 +492,7 @@
 			}
 		}
 	}
-	.team-right {
+	.Команда-right {
 		h1 {
 			margin-bottom: 30px;
 		}

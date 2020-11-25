@@ -2,9 +2,9 @@
 /*  Start Banner Area CSS
 /* =================================== */
 
-//--------- Start Home Banner Area -------------//
-.home-banner-area {
-	background: url(../img/home-banner-bg.png) no-repeat center;
+//--------- Start Главная Banner Area -------------//
+.Главная-banner-area {
+	background: url(../img/Главная-banner-bg.png) no-repeat center;
 	background-size: cover;
 	.fullscreen {
 		@media (max-width: 1440px) {
@@ -16,7 +16,7 @@
 	}
 }
 
-.home-banner-left {
+.Главная-banner-left {
 	@media (max-width: 768px) {
 		text-align: center;
 	}
@@ -50,7 +50,7 @@
 	}
 }
 
-.home-banner-right {
+.Главная-banner-right {
 	@media (max-width: 991px) {
 		display: none !important;
 		// img {
@@ -62,7 +62,7 @@
 	}
 }
 
-//--------- End Home Banner Area -------------//
+//--------- End Главная Banner Area -------------//
 
 //--------- Start Common Banner Area -------------//
 .banner_area {

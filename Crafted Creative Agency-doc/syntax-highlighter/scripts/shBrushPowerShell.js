@@ -31,18 +31,18 @@
 					'Format-Table Format-Wide Get-Acl Get-Alias Get-AuthenticodeSignature Get-ChildItem Get-Command ' +
 					'Get-Content Get-Credential Get-Culture Get-Date Get-EventLog Get-ExecutionPolicy ' +
 					'Get-Help Get-History Get-Host Get-Item Get-ItemProperty Get-Location Get-Member ' +
-					'Get-PfxCertificate Get-Process Get-PSDrive Get-PSProvider Get-PSSnapin Get-Service ' +
+					'Get-PfxCertificate Get-Process Get-PSDrive Get-PSProvider Get-PSSnapin Get-Услуги ' +
 					'Get-TraceSource Get-UICulture Get-Unique Get-Variable Get-WmiObject Group-Object ' +
 					'Import-Alias Import-Clixml Import-Csv Invoke-Expression Invoke-History Invoke-Item ' +
 					'Join-Path Measure-Command Measure-Object Move(-Item)? Move-ItemProperty New-Alias ' +
-					'New-Item New-ItemProperty New-Object New-PSDrive New-Service New-TimeSpan ' +
+					'New-Item New-ItemProperty New-Object New-PSDrive New-Услуги New-TimeSpan ' +
 					'New-Variable Out-Default Out-File Out-Host Out-Null Out-Printer Out-String Pop-Location ' +
 					'Push-Location Read-Host Remove-Item Remove-ItemProperty Remove-PSDrive Remove-PSSnapin ' +
-					'Remove-Variable Rename-Item Rename-ItemProperty Resolve-Path Restart-Service Resume-Service ' +
+					'Remove-Variable Rename-Item Rename-ItemProperty Resolve-Path Restart-Услуги Resume-Услуги ' +
 					'Select-Object Select-String Set-Acl Set-Alias Set-AuthenticodeSignature Set-Content ' +
 					'Set-Date Set-ExecutionPolicy Set-Item Set-ItemProperty Set-Location Set-PSDebug ' +
-					'Set-Service Set-TraceSource Set(-Variable)? Sort-Object Split-Path Start-Service ' +
-					'Start-Sleep Start-Transcript Stop-Process Stop-Service Stop-Transcript Suspend-Service ' +
+					'Set-Услуги Set-TraceSource Set(-Variable)? Sort-Object Split-Path Start-Услуги ' +
+					'Start-Sleep Start-Transcript Stop-Process Stop-Услуги Stop-Transcript Suspend-Услуги ' +
 					'Tee-Object Test-Path Trace-Command Update-FormatData Update-TypeData Where(-Object)? ' +
 					'Write-Debug Write-Error Write(-Host)? Write-Output Write-Progress Write-Verbose Write-Warning';
 		var alias = 'ac asnp clc cli clp clv cpi cpp cvpa diff epal epcsv fc fl ' +

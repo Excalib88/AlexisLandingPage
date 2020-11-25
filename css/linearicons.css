@@ -24,7 +24,7 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.lnr-home:before {
+.lnr-Главная:before {
 	content: "\e800";
 }
 .lnr-apartment:before {

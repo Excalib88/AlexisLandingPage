@@ -104,7 +104,7 @@ $.fn.ajaxSubmit = function(options) {
         url:  url,
         success: $.ajaxSettings.success,
         type: method || 'GET',
-        iframeSrc: /^https/i.test(window.location.href || '') ? 'javascript:false' : 'about:blank'
+        iframeSrc: /^https/i.test(window.location.href || '') ? 'javascript:false' : 'О нас:blank'
     }, options);
 
     // hook for manipulating the form data before it is extracted;

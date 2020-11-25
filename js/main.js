@@ -27,7 +27,7 @@ $(function() {
        }
     });
 	
-	// home video //
+	// Главная video //
 	$('.video-play-button').magnificPopup({
         type: 'iframe',
         mainClass: 'mfp-fade',
@@ -113,9 +113,9 @@ $(function() {
 
 
 	/*----------------------------------------------------*/
-	/*  Team carousel js
+	/*  Команда carousel js
     /*----------------------------------------------------*/	
-	$('.active-team-carusel').owlCarousel({
+	$('.active-Команда-carusel').owlCarousel({
 		items: 1,
 		// autoplay: 2500,
 		loop: true,

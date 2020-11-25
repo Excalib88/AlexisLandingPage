@@ -654,7 +654,7 @@ th {
     letter-spacing: 1px;
     color: #222222; }
 
-.gradient-bg, .primary-btn:hover, .video-play-button:before, .video-play-button:after, .counter_area .single_counter:hover, .single-item .team-left .member-desc .m-social a:hover, .cta-area, .single-footer-widget .click-btn {
+.gradient-bg, .primary-btn:hover, .video-play-button:before, .video-play-button:after, .counter_area .single_counter:hover, .single-item .Команда-left .member-desc .m-social a:hover, .cta-area, .single-footer-widget .click-btn {
   background: -webkit-linear-gradient(90deg, #4ba0f9 0%, #85f3f9 100%);
   background: -moz-linear-gradient(90deg, #4ba0f9 0%, #85f3f9 100%);
   background: -o-linear-gradient(90deg, #4ba0f9 0%, #85f3f9 100%);
@@ -1021,10 +1021,10 @@ th {
 .generic-content h1 {
   font-weight: 600; }
 
-.about-generic-area {
+.О нас-generic-area {
   background: #fff; }
 
-.about-generic-area p {
+.О нас-generic-area p {
   margin-bottom: 20px; }
 
 .white-bg {
@@ -2201,43 +2201,43 @@ h6 {
 /* =================================== */
 /*  Start Banner Area CSS
 /* =================================== */
-.home-banner-area {
-  background: url(../img/home-banner-bg.png) no-repeat center;
+.Главная-banner-area {
+  background: url(../img/Главная-banner-bg.png) no-repeat center;
   background-size: cover; }
   @media (max-width: 1440px) {
-    .home-banner-area .fullscreen {
+    .Главная-banner-area .fullscreen {
       height: 750px !important; } }
   @media (max-width: 768px) {
-    .home-banner-area .fullscreen {
+    .Главная-banner-area .fullscreen {
       height: 700px !important; } }
 
 @media (max-width: 768px) {
-  .home-banner-left {
+  .Главная-banner-left {
     text-align: center; } }
-.home-banner-left h1 {
+.Главная-banner-left h1 {
   color: #000000;
   font-size: 48px;
   margin-bottom: 25px; }
-  .home-banner-left h1 span {
+  .Главная-banner-left h1 span {
     color: #4ba0f9; }
   @media (max-width: 768px) {
-    .home-banner-left h1 br {
+    .Главная-banner-left h1 br {
       display: none; } }
   @media (max-width: 992px) {
-    .home-banner-left h1 {
+    .Главная-banner-left h1 {
       font-size: 45px; } }
   @media (max-width: 768px) {
-    .home-banner-left h1 {
+    .Главная-banner-left h1 {
       font-size: 36px; } }
   @media (max-width: 414px) {
-    .home-banner-left h1 {
+    .Главная-banner-left h1 {
       font-size: 30px; } }
 @media (max-width: 800px) {
-  .home-banner-left {
+  .Главная-banner-left {
     margin-top: 30px; } }
 
 @media (max-width: 991px) {
-  .home-banner-right {
+  .Главная-banner-right {
     display: none !important; } }
 
 .banner_area {
@@ -2331,22 +2331,22 @@ h6 {
       -moz-filter: grayscale(0%);
       -ms-filter: grayscale(0%); }
 
-/*Service area css
+/*Услуги area css
 ==========================================*/
 @media (max-width: 991px) {
-  .single-service {
+  .single-Услуги {
     margin-bottom: 30px; } }
-.single-service .service-icon {
+.single-Услуги .Услуги-icon {
   position: relative;
   margin-bottom: 40px; }
-  .single-service .service-icon .s-icon {
+  .single-Услуги .Услуги-icon .s-icon {
     position: absolute;
     left: 0;
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s; }
-  .single-service .service-icon .clr-icon {
+  .single-Услуги .Услуги-icon .clr-icon {
     position: absolute;
     left: -25px;
     top: -4px;
@@ -2356,15 +2356,15 @@ h6 {
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s; }
-.single-service .service-content h4 {
+.single-Услуги .Услуги-content h4 {
   font-size: 18px;
   margin-bottom: 20px; }
-.single-service .service-content p {
+.single-Услуги .Услуги-content p {
   margin-bottom: 0; }
-.single-service:hover .service-icon .s-icon {
+.single-Услуги:hover .Услуги-icon .s-icon {
   opacity: 0;
   visibility: hidden; }
-.single-service:hover .service-icon .clr-icon {
+.single-Услуги:hover .Услуги-icon .clr-icon {
   opacity: 1;
   visibility: visible; }
 
@@ -2462,15 +2462,15 @@ h6 {
     .counter_area .single_counter:hover .info-content p {
       color: #fff; }
 
-#about .video-sec-area {
+#О нас .video-sec-area {
   padding: 0;
   margin: 200px 0; }
   @media (max-width: 1200px) {
-    #about .video-sec-area {
+    #О нас .video-sec-area {
       margin: 0;
       padding: 120px 0; } }
   @media (max-width: 1200px) {
-    #about .video-sec-area {
+    #О нас .video-sec-area {
       margin: 0;
       padding: 80px 0; } }
 
@@ -2641,29 +2641,29 @@ h6 {
     #project-details .single-details .social_details li:last-child {
       margin-right: 0px; }
 
-/* Start Team Area css
+/* Start Команда Area css
 ============================================================================================ */
-.active-team-carusel .owl-nav {
+.active-Команда-carusel .owl-nav {
   position: absolute;
   right: 270px;
   bottom: 50px; }
   @media (max-width: 1024px) {
-    .active-team-carusel .owl-nav {
+    .active-Команда-carusel .owl-nav {
       right: 200px;
       bottom: 20px; } }
   @media (max-width: 991px) {
-    .active-team-carusel .owl-nav {
+    .active-Команда-carusel .owl-nav {
       right: -30px;
       bottom: 0; } }
   @media (max-width: 767px) {
-    .active-team-carusel .owl-nav {
+    .active-Команда-carusel .owl-nav {
       right: 0;
       bottom: 0; } }
   @media (max-width: 420px) {
-    .active-team-carusel .owl-nav {
+    .active-Команда-carusel .owl-nav {
       display: none; } }
-  .active-team-carusel .owl-nav .owl-prev,
-  .active-team-carusel .owl-nav .owl-next {
+  .active-Команда-carusel .owl-nav .owl-prev,
+  .active-Команда-carusel .owl-nav .owl-next {
     display: inline-block;
     margin: 20px;
     -webkit-transition: all 0.3s ease 0s;
@@ -2671,16 +2671,16 @@ h6 {
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
     opacity: 1; }
-    .active-team-carusel .owl-nav .owl-prev:hover,
-    .active-team-carusel .owl-nav .owl-next:hover {
+    .active-Команда-carusel .owl-nav .owl-prev:hover,
+    .active-Команда-carusel .owl-nav .owl-next:hover {
       opacity: .5; }
 
-.single-item .team-left {
+.single-item .Команда-left {
   position: relative; }
   @media (max-width: 767px) {
-    .single-item .team-left {
+    .single-item .Команда-left {
       display: none; } }
-  .single-item .team-left .member-desc {
+  .single-item .Команда-left .member-desc {
     padding: 20px;
     background: #fff;
     margin: 0 0px;
@@ -2690,14 +2690,14 @@ h6 {
     transform: translateX(-50%);
     width: 70%; }
     @media (max-width: 991px) {
-      .single-item .team-left .member-desc {
+      .single-item .Команда-left .member-desc {
         width: 90%;
         bottom: 0; } }
-    .single-item .team-left .member-desc .m-title h4 {
+    .single-item .Команда-left .member-desc .m-title h4 {
       font-size: 18px; }
-    .single-item .team-left .member-desc .m-title p {
+    .single-item .Команда-left .member-desc .m-title p {
       margin-bottom: 0; }
-    .single-item .team-left .member-desc .m-social a {
+    .single-item .Команда-left .member-desc .m-social a {
       height: 30px;
       width: 30px;
       display: inline-block;
@@ -2705,11 +2705,11 @@ h6 {
       text-align: center;
       line-height: 30px;
       margin: 5px; }
-      .single-item .team-left .member-desc .m-social a i.fa {
+      .single-item .Команда-left .member-desc .m-social a i.fa {
         color: #fff; }
-.single-item .team-right h1 {
+.single-item .Команда-right h1 {
   margin-bottom: 30px; }
-.single-item .team-right .primary-btn {
+.single-item .Команда-right .primary-btn {
   margin-top: 30px; }
 
 /* Start Testimonial Area css
@@ -3071,10 +3071,10 @@ h6 {
 .generic-content h1 {
   font-weight: 600; }
 
-.about-generic-area {
+.О нас-generic-area {
   background: #fff; }
 
-.about-generic-area p {
+.О нас-generic-area p {
   margin-bottom: 20px; }
 
 .white-bg {
