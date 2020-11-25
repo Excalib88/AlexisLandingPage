@@ -654,7 +654,7 @@ th {
     letter-spacing: 1px;
     color: #222222; }
 
-.gradient-bg, .primary-btn:hover, .video-play-button:before, .video-play-button:after, .counter_area .single_counter:hover, .single-item .Команда-left .member-desc .m-social a:hover, .cta-area, .single-footer-widget .click-btn {
+.gradient-bg, .primary-btn:hover, .video-play-button:before, .video-play-button:after, .counter_area .single_counter:hover, .single-item .team-left .member-desc .m-social a:hover, .cta-area, .single-footer-widget .click-btn {
   background: -webkit-linear-gradient(90deg, #4ba0f9 0%, #85f3f9 100%);
   background: -moz-linear-gradient(90deg, #4ba0f9 0%, #85f3f9 100%);
   background: -o-linear-gradient(90deg, #4ba0f9 0%, #85f3f9 100%);
@@ -2675,12 +2675,12 @@ h6 {
     .active-Команда-carusel .owl-nav .owl-next:hover {
       opacity: .5; }
 
-.single-item .Команда-left {
+.single-item .team-left {
   position: relative; }
   @media (max-width: 767px) {
-    .single-item .Команда-left {
+    .single-item .team-left {
       display: none; } }
-  .single-item .Команда-left .member-desc {
+  .single-item .team-left .member-desc {
     padding: 20px;
     background: #fff;
     margin: 0 0px;
@@ -2690,14 +2690,14 @@ h6 {
     transform: translateX(-50%);
     width: 70%; }
     @media (max-width: 991px) {
-      .single-item .Команда-left .member-desc {
+      .single-item .team-left .member-desc {
         width: 90%;
         bottom: 0; } }
-    .single-item .Команда-left .member-desc .m-title h4 {
+    .single-item .team-left .member-desc .m-title h4 {
       font-size: 18px; }
-    .single-item .Команда-left .member-desc .m-title p {
+    .single-item .team-left .member-desc .m-title p {
       margin-bottom: 0; }
-    .single-item .Команда-left .member-desc .m-social a {
+    .single-item .team-left .member-desc .m-social a {
       height: 30px;
       width: 30px;
       display: inline-block;
@@ -2705,11 +2705,11 @@ h6 {
       text-align: center;
       line-height: 30px;
       margin: 5px; }
-      .single-item .Команда-left .member-desc .m-social a i.fa {
+      .single-item .team-left .member-desc .m-social a i.fa {
         color: #fff; }
-.single-item .Команда-right h1 {
+.single-item .team-right h1 {
   margin-bottom: 30px; }
-.single-item .Команда-right .primary-btn {
+.single-item .team-right .primary-btn {
   margin-top: 30px; }
 
 /* Start Testimonial Area css
