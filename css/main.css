@@ -2405,14 +2405,17 @@ h6 {
   .video-right {
     margin-top: 50px; } }
 
-.video-left {
-  background: url(../img/video-bg.jpg) no-repeat center;
-  background-size: cover;
-  height: 350px;
-  border-radius: 10px; }
-  .video-left .play-btn {
-    z-index: 2; }
-
+.mid-logo img {
+  max-width: 100%;
+  height: auto;
+}
+.client-logo {
+  margin-left: 20%;
+  margin-right: 20%;
+  width: auto;
+  max-height: 200px;
+  vertical-align:center;
+}
 .counter_area {
   background: #f4f8ff;
   padding: 20px;
